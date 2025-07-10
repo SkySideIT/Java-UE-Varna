@@ -39,7 +39,7 @@ It simulates a real-world video game store with role-based access, employee and 
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 <img width="536" height="435" alt="1" src="https://github.com/user-attachments/assets/ffe1ac5e-2033-442f-b543-56bb4b9d9d8a" />
 <img width="278" height="155" alt="2" src="https://github.com/user-attachments/assets/f70e0001-d15d-463f-94c7-c27b80d040ca" />
