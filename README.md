@@ -76,5 +76,3 @@ It simulates a real-world video game store with role-based access, employee and 
 **2022**
 
 ---
-
-## 📃 Li
